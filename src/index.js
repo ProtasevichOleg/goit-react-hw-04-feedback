@@ -6,7 +6,8 @@ import App from 'components/App';
 
 const theme = {
   colors: {
-    //
+    statListMainBgColor: '#e6ebf0',
+    statListEvenBgColor: '#F3F6F5',
   },
 };
 
